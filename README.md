@@ -1,3 +1,7 @@
+
+# Software Demo is available in the below link
+https://youtu.be/DlBVDfVjABU
+
 # Store Point of Sale
  Desktop Point of Sale app built with electron
  

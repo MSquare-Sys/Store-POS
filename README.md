@@ -2,6 +2,13 @@
 # Software Demo is available in the below link
 https://youtu.be/EcP59jUPnx4
 
+# MSquareSys-POS software download link below
+https://github.com/MSquare-Sys/Store-POS/releases
+
+NOTE: If any problem in MSquareSys-POS software installation or UI problem, install the below sofware first and uninstall it
+      and then install MSquareSys-POS software 
+[Download](http://www.storepointofsale.com/download/v1/StorePOS.msi) the MSI Installer   
+
 # Store Point of Sale
  Desktop Point of Sale app built with electron
  
